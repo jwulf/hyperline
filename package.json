@@ -62,8 +62,7 @@
     "dev": "webpack --watch",
     "tdev": "jest --watch",
     "test": "jest",
-    "precommit": "lint-staged",
-    "postinstall": "opencollective postinstall"
+    "precommit": "lint-staged"
   },
   "xo": {
     "ignores": [
